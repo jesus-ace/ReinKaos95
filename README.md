@@ -45,9 +45,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r31nk405&layout=compact&hide=html" alt="r31nk405" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r31nk405&layout=compact&hide=html" alt="ReinKaos95" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r31nk405&show_icons=true" alt="r31nk405" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r31nk405&show_icons=true" alt="ReinKaos95" /></p>
 
 <p align="center">
 <a href="https://twitter.com/r31nk405" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="r31nk405" height="30" width="30" /></a>
