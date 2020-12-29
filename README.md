@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Walter Gutierrez</h1>
-<h1 align="center">Hi 👋, I'm Walter Gutierrez</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReinKaos95" alt="ReinKaos95" /> </p>
 
