@@ -80,7 +80,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rkaos95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rkaos95" height="30" width="40" /></a>
+<a href="https://twitter.com/Kaos95Rein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kaos95Rein" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/walter-g-uni-6a33091a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="walter-g-uni-6a33091a4" height="30" width="40" /></a>
 <a href="https://fb.com/RKaos95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RKaos95" height="30" width="40" /></a>
 <a href="https://instagram.com/shichiriron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shichiriron" height="30" width="40" /></a>
